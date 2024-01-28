@@ -51,10 +51,15 @@ body{
         
 }
 
-a{
+a,h1,h2{
     text-decoration: none;
     font-family: Acherus Grotesque Regular, sans-serif;
     
+}
+
+#header{
+    text-align: center;
+    color:white;
 }
 
 .social:hover, .social:focus{
